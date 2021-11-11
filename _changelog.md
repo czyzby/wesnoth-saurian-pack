@@ -15,3 +15,7 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 ![Saurian Spearwoman](images/units/saurians/spearwoman/spearwoman.png)
 * A new Saurian Spearwoman unit (Lv2).
   An alternative advancement of the Saurian Skirmisher.
+
+![Saurian Prophet](images/units/saurians/prophet/prophet.png)
+* A new Saurian Prophet unit (Lv3).
+  An advancement of the Saurian Oracle.
