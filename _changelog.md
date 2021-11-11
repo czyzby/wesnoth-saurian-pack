@@ -9,3 +9,9 @@ All versions use the `MAJOR.MINOR.PATCH` format.
 or stat adjustments. Releases with the same MAJOR version are always compatible.
 * MINOR version is incremented when new translations or graphics are added.
 * PATCH version is incremented in case of minor graphical fixes or typo corrections.
+
+## 1.0.0
+
+![Saurian Spearwoman](images/units/saurians/spearwoman/spearwoman.png)
+* A new Saurian Spearwoman unit (Lv2).
+  An alternative advancement of the Saurian Skirmisher.
