@@ -19,3 +19,5 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 ![Saurian Prophet](images/units/saurians/prophet/prophet.png)
 * A new Saurian Prophet unit (Lv3).
   An advancement of the Saurian Oracle.
+* Example British translation.
+* Polish translation.

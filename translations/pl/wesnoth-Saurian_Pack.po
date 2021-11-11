@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2021-11-10 20:00 UTC\n"
+"PO-Revision-Date: 2021-11-10 20:00 UTC\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [unit_type]: id=Saurian Spearwoman, race=lizard
+#: Saurian_Pack/units/saurians/Spearwoman.cfg:4
+msgid "female^Saurian Spearwoman"
+msgstr "Jaszczurza włóczniczka"
+
+#. [unit_type]: id=Saurian Spearwoman, race=lizard
+#: Saurian_Pack/units/saurians/Spearwoman.cfg:19
+msgid "Some saurian warriors with a particularly good aim prefer to aid their allies from the back lines rather than to infiltrate the enemy formations. With some exceptional spear throwing skills, their role is to protect the fragile saurian spellcasters during countless battles, and to support other warriors from afar. Defensive formations of saurian spearwomen are not to be underestimated."
+msgstr "Niektóre szczególnie celne jaszczurze wojowniczki wolą wspierać swoich sojuszników z tylnych linii, niż infiltrować wrogie formacje. Dzięki wyjątkowym umiejętnościom rzucania włócznią, ich rolą jest ochrona delikatnych szamanów podczas niezliczonych bitew i wspieranie innych wojowniczek z daleka. Formacje defensywne jaszczurzych włóczniczek nie powinny być lekceważone."
+
+#. [unit_type]: id=Saurian Prophet, race=lizard
+#: Saurian_Pack/units/saurians/Prophet.cfg:4
+msgid "Saurian Prophet"
+msgstr "Jaszczurzy prorok"
+
+#. [modification]: id=wesnoth-Saurian_Pack-mod
+#: Saurian_Pack/_main.cfg:16
+msgid "Additional Saurian Upgrades"
+msgstr "Dodatkowe Ulepszenia Jaszczurów"
+
+#. [modification]: id=wesnoth-Saurian_Pack-mod
+#: Saurian_Pack/_main.cfg:17
+msgid "If this setting is on, additional upgrades will be added to several Saurian units."
+msgstr "Jeżeli ta opcja jest zaznaczona, niektóre jaszczurze jednostki otrzymają dodatkowe ulepszenia."
