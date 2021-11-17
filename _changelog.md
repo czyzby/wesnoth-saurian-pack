@@ -12,7 +12,7 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 
 ## 2.0.0
 
-* Saurian Spearwoman SE bop animation fix.
+* Saurian Spearwoman bop animations fix.
 * Saurian Spearwoman stat changes.
   * HP increased to 44.
   * Melee damage increased to 10-2.
