@@ -1,10 +1,11 @@
 title="Saurian Pack"
-version="2.0.0-beta"
+version="2.0.0"
 icon="units/saurians/oracle/oracle-se-magic2.png~RC(magenta>lightblue)"
 description="A modification that adds additional upgrades for selected Saurian units. All added units feature complete sets of animations. This modification is compatible with the official eras.
 
 Additional units include:
 - Saurian Spearwoman: Saurian Skirmisher alternative upgrade.
+- Saurian Warden: Saurian Spearwoman upgrade.
 - Saurian Prophet: Saurian Oracle upgrade."
 tags="saurian,units,upgrades"
 type="mod_mp"
@@ -20,5 +21,6 @@ author="MJ"
 
 Dodatkowe jednostki:
 - Jaszczurza włóczniczka: alternatywne ulepszenie jaszczurzej harcowniczki.
+- Jaszczurza strażniczka: ulepszenie jaszczurzej włóczniczki.
 - Jaszczurzy prorok: ulepszenie jaszczurzej wyroczni."
 [/translation]

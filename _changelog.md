@@ -12,13 +12,19 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 
 ## 2.0.0
 
+![Saurian Warden](images/units/saurians/warden/warden.png)
+* A new Saurian Warden unit (Lv3).
+  An advancement of the Saurian Spearwoman.
 * Saurian Spearwoman bop animations fix.
 * Saurian Spearwoman stat changes.
-  * HP increased to 44.
+  * HP increased to 43.
   * Melee damage increased to 10-2.
   * Cost decreased to 25.
+  * Experience necessary to level up decreased to 55.
+  * Advancement changed to Saurian Warden. AMLA settings removed.
 * Saurian Prophet stat changes.
   * HP increased to 43.
+* `en_GB` translation removal due to no notable differences with `en_US`.
 
 ## 1.0.0
 

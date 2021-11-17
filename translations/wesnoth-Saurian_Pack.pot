@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: 2.0.0\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-11-10 20:00 UTC\n"
+"POT-Creation-Date: 2021-11-16 20:00 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,8 +16,18 @@ msgid "female^Saurian Spearwoman"
 msgstr ""
 
 #. [unit_type]: id=Saurian Spearwoman, race=lizard
-#: Saurian_Pack/units/saurians/Spearwoman.cfg:19
+#: Saurian_Pack/units/saurians/Spearwoman.cfg:18
 msgid "Some saurian warriors with a particularly good aim prefer to aid their allies from the back lines rather than to infiltrate the enemy formations. With some exceptional spear throwing skills, their role is to protect the fragile saurian spellcasters during countless battles, and to support other warriors from afar. Defensive formations of saurian spearwomen are not to be underestimated."
+msgstr ""
+
+#. [unit_type]: id=Saurian Warden, race=lizard
+#: Saurian_Pack/units/saurians/Warden.cfg:4
+msgid "female^Saurian Warden"
+msgstr ""
+
+#. [unit_type]: id=Saurian Warden, race=lizard
+#: Saurian_Pack/units/saurians/Warden.cfg:19
+msgid "Saurian warriors that excel in their combat abilities may advance to the role of wardens, which are responsible for keeping their fragile spellcasters alive during battles at all costs."
 msgstr ""
 
 #. [unit_type]: id=Saurian Prophet, race=lizard
