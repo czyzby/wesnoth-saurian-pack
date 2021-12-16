@@ -12,6 +12,7 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 
 ## 3.0.0
 
+* Campaign support.
 * Saurian Oracle's experience necessary to level up increased to 66.
 
 ## 2.0.0

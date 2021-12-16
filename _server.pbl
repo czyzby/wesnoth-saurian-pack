@@ -1,7 +1,7 @@
 title="Saurian Pack"
 version="3.0.0"
 icon="units/saurians/oracle/oracle-se-magic2.png~RC(magenta>lightblue)"
-description="A modification that adds additional upgrades for selected Saurian units. All added units feature complete sets of animations. This modification is compatible with the official eras.
+description="A modification that adds additional upgrades for selected Saurian units. All added units feature complete sets of animations. This modification is compatible with the official eras, as well as the campaigns that use mainline saurian units.
 
 Additional units include:
 - Saurian Spearwoman: Saurian Skirmisher alternative upgrade.
@@ -17,7 +17,7 @@ author="MJ"
 [translation]
     language="pl"
 	title="Dodatkowe Jaszczury"
-    description="Modyfikacja, która dodaje nowe ulepszenia wybranych jaszczurzych jednostek. Wszystkie dodane jednostki posiadają pełne zestawy animacji. Modyfikacja jest kompatybilna z oficjalnymi erami.
+    description="Modyfikacja, która dodaje nowe ulepszenia wybranych jaszczurzych jednostek. Wszystkie dodane jednostki posiadają pełne zestawy animacji. Modyfikacja jest kompatybilna z oficjalnymi erami, a także z kampaniami, które używają oficjalnych jednostek.
 
 Dodatkowe jednostki:
 - Jaszczurza włóczniczka: alternatywne ulepszenie jaszczurzej harcowniczki.
