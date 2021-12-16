@@ -10,12 +10,16 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 * MINOR version is incremented when new translations or graphics are added.
 * PATCH version is incremented in case of minor graphical fixes or typo corrections.
 
+## 3.0.0
+
+* Saurian Oracle's experience necessary to level up increased to 66.
+
 ## 2.0.0
 
 ![Saurian Warden](images/units/saurians/warden/warden.png)
 * A new Saurian Warden unit (Lv3).
   An advancement of the Saurian Spearwoman.
-* Saurian Spearwoman bop animations fix.
+* Saurian Spearwoman idle animations fix.
 * Saurian Spearwoman stat changes.
   * HP increased to 43.
   * Melee damage increased to 10-2.
