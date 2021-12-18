@@ -14,6 +14,7 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 
 * Campaign support.
 * Saurian Oracle's experience necessary to level up increased to 66.
+* Saurian Prophet sprite palette adjustments and head replacement.
 
 ## 2.0.0
 
