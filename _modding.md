@@ -47,12 +47,12 @@ only the Saurian Seer and Saurian Prophet upgrades, use the following
 `[load_resource]` tags:
 
 ```ini
-    [load_resource]
-        id=wesnoth-Saurian_Pack-resource-Seer
-    [/load_resource]
-    [load_resource]
-        id=wesnoth-Saurian_Pack-resource-Prophet
-    [/load_resource]
+[load_resource]
+    id=wesnoth-Saurian_Pack-resource-Seer
+[/load_resource]
+[load_resource]
+    id=wesnoth-Saurian_Pack-resource-Prophet
+[/load_resource]
 ```
 
 ### Referencing units from the add-on
@@ -142,7 +142,7 @@ Place the following comment before a translated text:
 
 For example:
 
-```
+```ini
 [unit_type]
     id=My Saurian Seer
     #textdomain wesnoth-Saurian_Pack
