@@ -14,6 +14,8 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 
 * Saurian Spearwoman and Warden ranged attack icons changed to `spear-thrown.png`
   with a fallback to `spear.png` in Wesnoth <=1.16.1.
+* Improved modding support. Now the modification is fully compatible with eras
+  and campaigns that load the unit advancements as a resource.
 
 ## 4.0.0
 

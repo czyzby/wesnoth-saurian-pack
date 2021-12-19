@@ -18,7 +18,7 @@ advantages:
 
 Add the following property to your `_server.pbl` file:
 
-```
+```ini
 dependencies=Saurian_Pack
 ```
 
@@ -35,6 +35,22 @@ To include the modification as a whole in your add-on, place the
 ```
 
 This will include all additional Saurian advancements in your add-on.
+If you include this mod as a resource, your add-on will be compatible
+with the Saurian Pack modification. This means that if a player activates
+the modification for your era or campaign, it should not cause any problems.
+
+### Referencing units from the add-on
+
+You reference the units by their IDs in your eras and campaigns.
+Unit IDs are all equal to the full unit names in English, and can be
+found in the `.cfg` files in the `units/saurians/` directory.
+
+For example, this defines the Saurian Spearwoman as a possible leader
+of a custom faction:
+
+```ini
+leader=Saurian Spearwoman,Saurian Oracle,Saurian Soothsayer
+```
 
 ### Including individual unit advancements
 
@@ -55,18 +71,8 @@ only the Saurian Seer and Saurian Prophet upgrades, use the following
 [/load_resource]
 ```
 
-### Referencing units from the add-on
-
-You reference the units by their IDs in your eras and campaigns.
-Unit IDs are all equal to the full unit names in English, and can be
-found in the `.cfg` files in the `units/saurians/` directory.
-
-For example, this defines the Saurian Spearwoman as a possible leader
-of a custom faction:
-
-```
-leader=Saurian Spearwoman,Saurian Oracle,Saurian Soothsayer
-```
+Note that this approach might make it somewhat incompatible with
+the Saurian Pack modification itself, duplicating some advancements.
 
 ### Customizing add-on
 
