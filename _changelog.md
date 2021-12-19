@@ -10,6 +10,14 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 * MINOR version is incremented when new translations or graphics are added.
 * PATCH version is incremented in case of minor graphical fixes or typo corrections.
 
+## 4.0.0
+
+![Saurian Seer](images/units/saurians/seer/seer.png)
+* A new Saurian Seer unit (Lv3).
+  An advancement of the Saurian Soothsayer.
+* Saurian Soothsayer's experience necessary to level up decreased to 60.
+* Translation files should now be correctly picked up by the game client.
+
 ## 3.0.0
 
 * Campaign support.

@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 3.0.0\n"
-"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-11-16 20:00 UTC\n"
+"Project-Id-Version: 4.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/czyzby/wesnoth-saurian-pack/issues/\n"
+"POT-Creation-Date: 2021-12-18 16:00 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,13 +35,18 @@ msgstr ""
 msgid "Saurian Prophet"
 msgstr ""
 
+#. [unit_type]: id=Saurian Seer, race=lizard
+#: Saurian_Pack/units/saurians/Seer.cfg:4
+msgid "Saurian Seer"
+msgstr ""
+
 #. [modification]: id=wesnoth-Saurian_Pack-mod
-#: Saurian_Pack/_main.cfg:16
+#: Saurian_Pack/_main.cfg:15
 msgid "Additional Saurian Upgrades"
 msgstr ""
 
 #. [modification]: id=wesnoth-Saurian_Pack-mod
-#: Saurian_Pack/_main.cfg:17
+#: Saurian_Pack/_main.cfg:16
 msgid "If this setting is on, additional upgrades will be added to several Saurian units."
 msgstr ""
 
