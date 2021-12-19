@@ -10,6 +10,11 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 * MINOR version is incremented when new translations or graphics are added.
 * PATCH version is incremented in case of minor graphical fixes or typo corrections.
 
+## 4.1.0
+
+* Saurian Spearwoman and Warden ranged attack icons changed to `spear-thrown.png`
+  with a fallback to `spear.png` in Wesnoth <=1.16.1.
+
 ## 4.0.0
 
 ![Saurian Seer](images/units/saurians/seer/seer.png)

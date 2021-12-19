@@ -1,14 +1,14 @@
 title="Saurian Pack"
-version="4.0.0"
+version="4.1.0"
 icon="units/saurians/oracle/oracle-se-magic2.png~RC(magenta>lightblue)"
-description="A modification that adds additional upgrades for selected Saurian units. All added units feature complete sets of animations. This modification is compatible with the official eras, as well as the campaigns that use mainline saurian units.
+description="A modification that adds additional upgrades for selected Saurian units. All added units feature complete sets of animations. This modification is compatible with the official eras, as well as all campaigns that use the mainline Saurian units.
 
 Additional units include:
 - Saurian Spearwoman: Saurian Skirmisher alternative upgrade.
 - Saurian Warden: Saurian Spearwoman upgrade.
 - Saurian Seer: Saurian Soothsayer upgrade.
 - Saurian Prophet: Saurian Oracle upgrade."
-tags="saurian,units,upgrades"
+tags="saurian,saurians,lizards,units,upgrades,advancements"
 type="mod_mp"
 author="MJ"
 [feedback]
