@@ -1,9 +1,13 @@
 # Saurian Pack
 
-A tiny [Wesnoth](https://www.wesnoth.org/) addon that adds additional upgrades
-for selected Saurian units. This modification is compatible with the default eras.
+A tiny [Wesnoth](https://www.wesnoth.org/) add-on that includes additional upgrades
+for selected Saurian units. This modification is compatible with the default eras,
+as well as all campaigns that use the official Saurians.
 
 See the [changelog](../_changelog.md) for a list of introduced units.
+
+If you would like to include the additional units in your add-on, see the
+[modding guide](../_modding.md).
 
 ### License
 

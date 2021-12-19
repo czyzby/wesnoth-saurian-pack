@@ -25,6 +25,7 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 * Saurian Warden stat changes.
   * Ranged damage increased to 12-3.
   * Cost increased to 46.
+* Modding support. Additional advancements are now available as resources.
 
 ## 3.0.0
 
