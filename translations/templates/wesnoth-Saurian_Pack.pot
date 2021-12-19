@@ -41,12 +41,12 @@ msgid "Saurian Seer"
 msgstr ""
 
 #. [modification]: id=wesnoth-Saurian_Pack-mod
-#: Saurian_Pack/_main.cfg:15
+#: Saurian_Pack/_main.cfg:37
 msgid "Additional Saurian Upgrades"
 msgstr ""
 
 #. [modification]: id=wesnoth-Saurian_Pack-mod
-#: Saurian_Pack/_main.cfg:16
+#: Saurian_Pack/_main.cfg:38
 msgid "If this setting is on, additional upgrades will be added to several Saurian units."
 msgstr ""
 

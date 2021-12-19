@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 4.0.0\n"
 "Report-Msgid-Bugs-To: https://github.com/czyzby/wesnoth-saurian-pack/issues/\n"
 "POT-Creation-Date: 2021-12-18 16:00 UTC\n"
-"PO-Revision-Date: 2021-12-18 16:30 UTC\n"
+"PO-Revision-Date: 2021-12-19 11:00 UTC\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -39,11 +39,11 @@ msgid "Saurian Seer"
 msgstr "Jaszczurzy jasnowidz"
 
 #. [modification]: id=wesnoth-Saurian_Pack-mod
-#: Saurian_Pack/_main.cfg:15
+#: Saurian_Pack/_main.cfg:37
 msgid "Additional Saurian Upgrades"
 msgstr "Dodatkowe Ulepszenia Jaszczurów"
 
 #. [modification]: id=wesnoth-Saurian_Pack-mod
-#: Saurian_Pack/_main.cfg:16
+#: Saurian_Pack/_main.cfg:38
 msgid "If this setting is on, additional upgrades will be added to several Saurian units."
 msgstr "Jeżeli ta opcja jest zaznaczona, niektóre jaszczurze jednostki otrzymają dodatkowe ulepszenia."
