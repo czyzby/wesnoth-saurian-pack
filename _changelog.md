@@ -25,6 +25,8 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 * Saurian Warden stat changes.
   * Ranged damage increased to 12-3.
   * Cost increased to 46.
+* Tweaked Saurian Spearwoman and Saurian Warden base sprite placements
+  to be more in line with Saurian Skirmisher.
 * Modding support. Additional advancements are now available as resources.
 
 ## 3.0.0
