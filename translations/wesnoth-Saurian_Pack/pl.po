@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 4.1.0\n"
+"Project-Id-Version: 4.1.1\n"
 "Report-Msgid-Bugs-To: https://github.com/czyzby/wesnoth-saurian-pack/issues/\n"
 "POT-Creation-Date: 2021-12-18 16:00 UTC\n"
 "PO-Revision-Date: 2021-12-19 11:00 UTC\n"
@@ -39,11 +39,31 @@ msgid "Saurian Seer"
 msgstr "Jaszczurzy jasnowidz"
 
 #. [modification]: id=wesnoth-Saurian_Pack-mod
-#: Saurian_Pack/_main.cfg:37
-msgid "Additional Saurian Upgrades"
+#: Saurian_Pack/_main.cfg:16
+msgid "Additional Saurian Advancements"
 msgstr "Dodatkowe Ulepszenia Jaszczurów"
 
 #. [modification]: id=wesnoth-Saurian_Pack-mod
-#: Saurian_Pack/_main.cfg:38
-msgid "If this setting is on, additional upgrades will be added to several Saurian units."
+#: Saurian_Pack/_main.cfg:17
+msgid "If this setting is on, additional advancements will be added to several Saurian units."
 msgstr "Jeżeli ta opcja jest zaznaczona, niektóre jaszczurze jednostki otrzymają dodatkowe ulepszenia."
+
+#. [resource]: id=wesnoth-Saurian_Pack-resource
+#: Saurian_Pack/_main.cfg:27
+msgid "Includes all additional unit advancements. Useful for custom campaigns and eras."
+msgstr "Zawiera wszystkie dodatkowe ulepszenia jednostek. Przydatne do własnych kampanii i er."
+
+#. [resource]: id=wesnoth-Saurian_Pack-resource-Prophet
+#: Saurian_Pack/_main.cfg:41
+msgid "Replaces the Saurian Oracle advancements with the Saurian Prophet unit."
+msgstr "Zastępuje ulepszenia jaszczurzej wyroczni na jaszczurzego proroka."
+
+#. [resource]: id=wesnoth-Saurian_Pack-resource-Seer
+#: Saurian_Pack/_main.cfg:51
+msgid "Replaces the Saurian Soothsayer advancements with the Saurian Seer unit."
+msgstr "Zastępuje ulepszenia jaszczurzego wieszcza na jaszczurzego jasnowidza."
+
+#. [resource]: id=wesnoth-Saurian_Pack-resource-Spearwoman
+#: Saurian_Pack/_main.cfg:61
+msgid "Adds the Saurian Spearwoman advancement to the Saurian Skirmisher unit."
+msgstr "Dodaje jaszczurzą włoczniczkę jako ulepszenie jaszczurzej harcowniczki."

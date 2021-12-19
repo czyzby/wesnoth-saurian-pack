@@ -1,6 +1,6 @@
 # Modding guide
 
-Feel free to use to the additional Saurian units for your own add-ons!
+Feel free to use to the additional Saurian units in your own add-ons!
 However, instead of copying the sprites and configuration files,
 consider including this add-on as a dependency. This has the following
 advantages:
@@ -34,10 +34,14 @@ To include the modification as a whole in your add-on, place the
 [/era]
 ```
 
-This will include all additional Saurian advancements in your add-on.
-If you include this mod as a resource, your add-on will be compatible
-with the Saurian Pack modification. This means that if a player activates
-the modification for your era or campaign, it should not cause any problems.
+When you load the `wesnoth-Saurian_Pack-resource` resource in your
+add-on, it works as if the player has turned on the **Saurian Pack**
+modification. This will include all additional Saurian advancements
+in your add-on.
+
+Note that the resource and the modification are fully compatible.
+Even if the player turns on the modification independently, it
+should not cause any problems.
 
 ### Referencing units from the add-on
 
@@ -71,8 +75,10 @@ only the Saurian Seer and Saurian Prophet upgrades, use the following
 [/load_resource]
 ```
 
-Note that this approach might make it somewhat incompatible with
-the Saurian Pack modification itself, duplicating some advancements.
+This approach is also compatible with the modification, but allows to
+limit the number of included units. However, do keep in mind that
+the user might turn on the modification and include the extra units
+that were omitted via resource loading.
 
 ### Customizing add-on
 
@@ -88,9 +94,10 @@ add-on, add the following tags to your `_main.cfg` file:
 [/units]
 ```
 
-Including these tags allows adding advancements manually, redefining unit
-definitions, and so on. The following sections assume that `[binary_path]`
-and `[+units]` are properly defined.
+Including these tags gives to direct access to the add-on resources,
+which allows adding advancements manually, redefining unit definitions,
+and so on. The following sections assume that `[binary_path]` and
+`[+units]` tags are properly defined.
 
 #### Adding unit advancements manually
 
@@ -115,12 +122,11 @@ in your `[era]` or `[campaign]` tags. For example:
 
 If you do would like to use the graphics of the additional Saurians, but
 want to define custom statistics for the new units, skip the `[+units]`
-tag during dependency setup (see the first section), and instead copy the
-unit configuration files from `units/saurians/` to your add-on and apply
-the changes.
+tag during dependency setup, and instead copy the unit configuration files
+from `units/saurians/` to your add-on, applying the changes.
 
 Note that in order for the sprites to be correctly picked up by the game
-client, `[binary_path]` has to be defined in your `.cfg` file:
+client, `[binary_path]` still has to be defined in your `.cfg` file:
 
 ```ini
 [binary_path]
@@ -160,10 +166,9 @@ For example:
 > _Additional units do not have any images._
 
 Make sure you have included the `[binary_path]` property in your `.cfg` file.
-See the first section of this document.
 
 > _Additional units are not available in my add-on._
 
 Make sure you have included the unit configuration files with `[+units]`,
 and explicitly set the advancements of the official Saurians with
-`[modify_unit_type]` tags. See the first two sections of this document.
+`[modify_unit_type]` tags.
