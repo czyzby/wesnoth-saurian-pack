@@ -10,6 +10,7 @@ All of the sprites from this add-on are based on the original Saurian designs.
 ## Add-on
 
 * Prophet, Spearwoman, and Warden sprites by MJ.
-* Seer sprites by MJ. Pauldron based on the Saurian Soullocker from Drazelic.
+* Seer sprites by MJ. Pauldron based on the Saurian Soullocker by Drazelic.
+* Balancing suggestions by Hejnewar.
 * WML files and add-on configuration by MJ.
 * Polish translation by MJ.

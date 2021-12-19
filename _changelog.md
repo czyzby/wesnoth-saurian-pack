@@ -17,6 +17,14 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
   An advancement of the Saurian Soothsayer.
 * Saurian Soothsayer's experience necessary to level up decreased to 60.
 * Translation files should now be correctly picked up by the game client.
+* Saurian Prophet stat changes.
+  * Cost increased to 51.
+* Saurian Spearwoman stat changes.
+  * HP decreased to 41.
+  * Cost decreased to 24.
+* Saurian Warden stat changes.
+  * Ranged damage increased to 12-3.
+  * Cost increased to 46.
 
 ## 3.0.0
 
