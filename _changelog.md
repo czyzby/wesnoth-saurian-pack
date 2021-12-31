@@ -10,6 +10,10 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 * MINOR version is incremented when new translations or graphics are added.
 * PATCH version is incremented in case of minor graphical fixes or typo corrections.
 
+## 4.1.2
+
+* Images optimization. File sizes reduced over 90%.
+
 ## 4.1.1
 
 * Individual unit advancement resources are now compatible with the entire
