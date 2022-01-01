@@ -13,6 +13,7 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 ## 4.1.3
 
 * Added missing leg bracelets to Prophet's NE running animation frames.
+* Fixed Spearwoman eyes color in NE idle animation frames.
 
 ## 4.1.2
 
