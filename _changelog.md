@@ -15,6 +15,7 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 * Added missing leg bracelets to Prophet's NE running animation frames.
 * Fixed Spearwoman eyes color in NE idle animation frames.
 * Removed overlapped shadows from various sprites.
+* Filled stray transparent pixels in Prophet's and Seer's robes.
 
 ## 4.1.2
 
