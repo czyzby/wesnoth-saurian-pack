@@ -10,6 +10,10 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 * MINOR version is incremented when new translations or graphics are added.
 * PATCH version is incremented in case of minor graphical fixes or typo corrections.
 
+## 4.1.3
+
+* Added missing leg bracelets to Prophet's NE running animation frames.
+
 ## 4.1.2
 
 * Images optimization. File sizes reduced over 90%.
