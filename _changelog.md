@@ -18,6 +18,7 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 * Filled stray transparent pixels in Prophet's and Seer's robes.
 * Improved Seer's gem tiara.
 * Fixed palette in Prophet's NE attack animation frames.
+* Removed redundant colors from the sprite palettes.
 
 ## 4.1.2
 
