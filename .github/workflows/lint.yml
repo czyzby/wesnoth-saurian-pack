@@ -11,3 +11,5 @@ jobs:
       uses: actions/checkout@v2
     - name: Lint WML
       uses: czyzby/wesnoth-wml-linter@v1
+    - name: Verify images
+      uses: czyzby/wesnoth-png-optimizer@v1
