@@ -13,3 +13,5 @@ jobs:
       uses: czyzby/wesnoth-wml-linter@v1
     - name: Verify images
       uses: czyzby/wesnoth-png-optimizer@v1
+      with:
+        threshold: 5
