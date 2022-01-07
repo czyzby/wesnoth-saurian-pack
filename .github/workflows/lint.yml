@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Repository Checkout
+    - name: Checkout repository
       uses: actions/checkout@v2
-    - name: WML Lint
+    - name: Lint WML
       uses: czyzby/wesnoth-wml-linter@v1
