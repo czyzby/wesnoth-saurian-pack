@@ -10,6 +10,11 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 * MINOR version is incremented when new translations or graphics are added.
 * PATCH version is incremented in case of minor graphical fixes or typo corrections.
 
+## 4.1.4
+
+* Adjusted the sprites color palette after the recent mainline changes.
+  All black colors were changed to `#151515`.
+
 ## 4.1.3
 
 * Added missing leg bracelets to Prophet's NE running animation frames.
