@@ -12,6 +12,7 @@ or stat adjustments. Releases with the same MAJOR version are always compatible.
 
 ## 4.1.4
 
+* Updated to Wesnoth 1.16.3.
 * Adjusted the sprites color palette after the recent mainline changes.
   All black colors were changed to `#151515`.
 
